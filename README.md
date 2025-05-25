@@ -102,7 +102,3 @@ Os modelos apresentaram **melhor desempenho nas regiões e períodos em que os v
 Em suma, a metodologia aplicada mostrou-se **robusta e escalável**, com forte potencial de uso real no planejamento agrícola. A acurácia alcançada com modelos como Random Forest reforça a utilidade do NDVI, mas também evidencia a necessidade de **complementar a base de dados** e considerar **variáveis externas críticas** para um modelo ainda mais completo e resiliente às variações naturais do campo.
 
 ---
-
-### **Vídeo Demonstrativo**
-O vídeo com a demonstração desta continuação está disponível em:
-[https://youtu.be/F8Najp-2RS](https://youtu.be/F8Najp-2RS)
